@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/branchLeft/.github/blob/main/SECURITY.md
+    about: Please don't file security issues publicly — use private vulnerability reporting instead.
+  - name: Ask a question / get support
+    url: https://github.com/branchLeft/.github/blob/main/SUPPORT.md
+    about: For usage questions, see our support guide.
