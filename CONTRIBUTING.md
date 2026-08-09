@@ -18,6 +18,10 @@ This applies to every repository in the branchLeft org unless that repo's own `C
 
 All PRs need one approving review from a maintainer (`@branchLeft/branchleft-admin`) before merge. Please be patient — this is a small team.
 
+## Documentation
+
+Changes to documentation, and to code comments, follow [docs/DOCUMENTATION-STANDARD.md](docs/DOCUMENTATION-STANDARD.md). The short version: write the current state, name people by role rather than by name, and put the reasoning behind a change in the PR description rather than in the repo. A `docs-lint` check enforces the mechanical parts.
+
 ## Code of Conduct
 
 Participation is governed by our [Code of Conduct](CODE_OF_CONDUCT.md).
