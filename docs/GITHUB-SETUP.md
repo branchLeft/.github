@@ -1,6 +1,6 @@
 # GitHub org & repo configuration
 
-What's configured across `branchLeft`, and why. Applied 2026-08-02.
+What's configured across `branchLeft`, and why.
 
 ## Goal
 
