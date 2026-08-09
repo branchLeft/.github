@@ -11,7 +11,13 @@
 # Examples:
 #   scripts/bootstrap-repo.sh --repo website \
 #     --check "Typecheck, Pre-commit & Coverage" --check "End-to-end tests" \
+#     --check "Pulumi preview" \
 #     --action "docker/build-push-action@*" --action "google-github-actions/auth@*"
+#
+#   Only require a preview check whose job runs on every PR to the default
+#   branch. A job gated by a workflow-level `paths:` filter never reports on
+#   PRs outside those paths, and a required check that never reports blocks
+#   the PR permanently.
 #
 #   scripts/bootstrap-repo.sh --repo components \
 #     --check "Lint, Format & Test" --tags
