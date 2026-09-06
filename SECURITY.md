@@ -10,7 +10,7 @@ If you're unable to use that, email contact@branchleft.co.uk with details.
 
 ## Supported versions
 
-These are small, actively-developed projects. Only the latest release of `@branchleft/components` and the current `main` of `website` are supported — there is no long-term-support branch.
+These are small, actively-developed projects. Only the latest release of `@branchleft/components`, the latest tagged release of `ghost-platform`, and the current `main` of `website` are supported — there is no long-term-support branch.
 
 ## What to expect
 
